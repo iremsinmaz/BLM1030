@@ -3,4 +3,4 @@ project(2_scanf)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(2_scanf main.cpp)
+add_executable(2_scanf main.c)
