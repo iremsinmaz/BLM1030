@@ -1,10 +1,10 @@
+//Elif İrem Sınmaz tarafından hazırlanmıştır.
 #include <stdio.h>
 #include <string.h>
 int not_1;
 int not_2;
 float toplam;
 char yanit[5];
-char evet[4];
 int main() {
 
     printf("Ogrencinin vize notunu giriniz: ");
