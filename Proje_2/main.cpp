@@ -51,9 +51,10 @@ int main() {
             if (strcmp(cevap_4, "ind") == 0 ) {
                 printf("bir sirkette ceo olacaksin... for real.. unless..?");
             }
-            if (strcmp(cevap_4, "diger") == 0 ) {
+            if (strcmp(cevap_4, "che") == 0 ) {
                 printf("bogazicinden mezun degilsen probably issiz.");
             }
+            
 
 
         }
